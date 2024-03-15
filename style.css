@@ -1,0 +1,91 @@
+.body {
+    margin : 0;
+}
+
+.main {
+    height: 100vh;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+.main-heading {
+    height: 15vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    /* background-color: rgb(243, 230, 230); */
+    box-shadow: 1px 2px rgb(212, 207, 207);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(235, 170, 168);
+}
+
+.main-section {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(149, 172, 250);
+}
+
+.main-container-ironman {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: rgb(173, 58, 58);
+    color: whitesmoke;
+}
+
+.main-container-thor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: rgb(173, 58, 58);
+}
+
+.main-container-hulk {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: rgb(173, 58, 58);
+}
+
+.main-container-hawkeye {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: rgb(173, 58, 58);
+}
+
+.main-container-captain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: rgb(173, 58, 58);
+}
+
+.main-container-black {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: rgb(173, 58, 58);
+}
